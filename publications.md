@@ -32,7 +32,7 @@ title: Publications
 15. With A. Olivier, *Combination of direct methods and homotopy in numerical optimal control: application to the optimization of chemotherapy in cancer*, Journal of Optimization Theory and Applications (2019).
 16. With L. Almeida, F. Bubba, B. Perthame, *Energy and implicit discretization of the Fokker-Planck and Keller-Segel type equations*, Networks and Heterogeneous Media (2019).
 17. With E. Trélat, *Global stability with selection in integro-differential Lotka-Volterra systems modelling trait-structured populations*, Journal of Biological Dynamics (2018).
-18. With J. Clairambault, A. Lorz, E. Trélat, *Asymptotic analysis and optimal control of an integro-differential system modelling healthy and cancer cells exposed to chemotherapy*, Journal de Mathématiques Pures et Appliquées (2018).
+18. With J. Clairambault, A. Lorz, E. Trélat, *Asymptotic analysis and optimal control of an integro-differential system modelling healthy and cancer cells exposed to chemotherapy*[PDF](./assets/publications/CLPT2018.pdf), Journal de Mathématiques Pures et Appliquées (2018).
 
 ## Proceedings
 
