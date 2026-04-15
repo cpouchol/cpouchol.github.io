@@ -24,9 +24,15 @@ title: Home
       <a href="./cv">CV</a> ·
       <a href="./contact">Contact</a>
     </p>
+
+    <p>
+      <a href="#">HAL</a> ·
+      <a href="#">Google Scholar</a> ·
+      <a href="#">ORCID</a>
+    </p>
   </div>
 
-  <div style="flex:0 0 140px; text-align:right;">
+  <div style="flex:0 0 140px; text-align:right; margin-top:12px;">
     <img src="./assets/photo.jpg" alt="Camille Pouchol" style="width:140px; height:auto; border-radius:12px;">
   </div>
 </div>
