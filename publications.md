@@ -7,13 +7,13 @@ title: Publications
 
 ## Preprints
 
-1. [Generalisation of Farkas' lemma beyond closedness: a constructive approach via Fenchel-Rockafellar duality](./assets/publications/PTZ2026.pdf) 
+1. [Generalisation of Farkas' lemma beyond closedness: a constructive approach via Fenchel-Rockafellar duality](./assets/publications/PTZ2026.pdf)  
    with E. Trélat, C. Zhang
 
 1. [Computer-assisted proofs of non-reachability for linear parabolic PDEs under bounded control constraints](./assets/publications/PTZ2026.pdf)
    with I. Hasenohr, Y. Privat, C. Zhang 
 
-1. [Estimating the intensity of a filtered Poisson point process on $\mathbb{R}^d$](./assets/publications/ACDP2025.pdf)
+1. [Estimating the intensity of a filtered Poisson point process on $\mathbb{R}^d$](./assets/publications/ACDP2025.pdf)  
    with R. Abergel, F. Comte, C. Duval
 
 1. [Random Leja points](./assets/publications/P2024.pdf)  
@@ -28,10 +28,10 @@ title: Publications
    SIAM Journal on Uncertainty Quantification (2025)
 
 1. [Computer-assisted proofs of non-reachability for linear finite-dimensional control systems](./assets/publications/HPPZ2024.pdf)  
-   with I. Hasenohr, Y. Privat, C. Zhang 
+   with I. Hasenohr, Y. Privat, C. Zhang   
    SIAM Journal on Control and Optimization (2025)
 
-1. [An integrative phenotype-structured partial differential equation model for the population dynamics of epithelial-mesenchymal transition](./assets/publications/GJJP2023.pdf)  
+1. [An integrative phenotype-structured partial differential equation model for the population dynamics of epithelial-mesenchymal transition](./assets/publications/GJJP2023.pdf)   
    with J. Guilberteau, P. Jain, M. K. Jolly, N. Pouradier Duteil  
    NPJ Systems Biology and Applications (2025)
 
