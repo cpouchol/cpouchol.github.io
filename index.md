@@ -6,7 +6,7 @@ title: Home
 <div style="display:flex; align-items:flex-start; justify-content:space-between; gap:2rem; margin-top:2rem;">
   <div style="flex:1; min-width:0;">
 
-    <p><strong>Assistant Professor in applied mathematics at MAP5, Université Paris Cité.</strong></p>
+    <p><strong>Assistant Professor at MAP5, Université Paris Cité.</strong></p>
 
     <p>
       My research interests revolve around <strong>inverse problems</strong>, <strong>control</strong> and
@@ -15,7 +15,6 @@ title: Home
 
     <p>
       <a href="./publications">Publications</a> ·
-      <a href="./teaching">Teaching</a> ·
       <a href="./cv">CV</a> ·
       <a href="./contact">Contact</a>
     </p>
