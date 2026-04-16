@@ -1,0 +1,22 @@
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+**Assistant Professor at MAP5, Université Paris Cité.**
+
+My research interests revolve around **inverse problems**, **control** and **optimisation**.
+
+[Publications](publications.md) ·
+[Enseignement](enseignement.md) ·
+[Contact](contact.md)
+
+:::
+
+::: {.column width="35%"}
+
+![](assets/photo.jpg){width=160px}
+
+:::
+
+::::

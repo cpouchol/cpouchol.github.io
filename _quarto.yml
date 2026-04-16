@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Camille Pouchol"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.md
+        text: Publications
+      - href: enseignement.md
+        text: Enseignement
+      - href: contact.md
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+lang: en

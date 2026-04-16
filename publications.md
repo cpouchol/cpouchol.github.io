@@ -7,7 +7,7 @@ title: Publications
 
 ## Preprints
 
-1. [Generalisation of Farkas' lemma beyond closedness: a constructive approach via Fenchel-Rockafellar duality](./assets/publications/PTZ2026.pdf)  
+1. [Generalisation of Farkas' lemma beyond closedness: a constructive approach via Fenchel-Rockafellar duality](./assets/publications/PTZ2026.pdf) 
    with E. Trélat, C. Zhang
 
 1. [Computer-assisted proofs of non-reachability for linear parabolic PDEs under bounded control constraints](./assets/publications/PTZ2026.pdf)
