@@ -3,8 +3,6 @@ layout: default
 title: Contact
 ---
 
-# Contact
-
 **Camille Pouchol**  
 MAP5, Université Paris Cité  
 Office 735-E  
