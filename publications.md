@@ -3,14 +3,12 @@ layout: default
 title: Publications
 ---
 
-# Publications
-
 ## Preprints
 
-1. [Generalisation of Farkas' lemma beyond closedness: a constructive approach via Fenchel-Rockafellar duality](./assets/publications/PTZ2026.pdf) 
+1. [Generalisation of Farkas' lemma beyond closedness: a constructive approach via Fenchel-Rockafellar duality](./assets/publications/PTZ2026.pdf)   
    with E. Trélat, C. Zhang
 
-1. [Computer-assisted proofs of non-reachability for linear parabolic PDEs under bounded control constraints](./assets/publications/PTZ2026.pdf)
+1. [Computer-assisted proofs of non-reachability for linear parabolic PDEs under bounded control constraints](./assets/publications/PTZ2026.pdf)  
    with I. Hasenohr, Y. Privat, C. Zhang 
 
 1. [Estimating the intensity of a filtered Poisson point process on $\mathbb{R}^d$](./assets/publications/ACDP2025.pdf)  
@@ -55,9 +53,9 @@ title: Publications
    with Z. Kaid, J. Clairambault  
    Mathematical Modelling of Natural Phenomena (2023)
 
-1. [Pandemic Lock-down, Isolation, and Exit Policies Based on Machine Learning Predictions](./assets/publications/EFOPPV2023.pdf)  
+1. [Pandemic Lock-down, Isolation, and Exit Policies Based on Machine Learning Predictions](./assets/publications/EFOPPV2022.pdf)  
    with T. Evgeniou, M. Fekom, A. Ovchinnikov, R. Porcher, N. Vayatis  
-   Production and Operations Management (2023)
+   Production and Operations Management (2022)
 
 1. [Monostability and bistability of biological switches](./assets/publications/GPP2021.pdf)  
    with J. Guilberteau, N. Pouradier Duteil  

@@ -4,56 +4,56 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Generalisation of Farkas’ lemma beyond closedness: a constructive approach via Fenchel-Rockafellar duality with E. Trélat, C. Zhang\nComputer-assisted proofs of non-reachability for linear parabolic PDEs under bounded control constraints with I. Hasenohr, Y. Privat, C. Zhang\nEstimating the intensity of a filtered Poisson point process on \\(\\mathbb{R}^d\\)\nwith R. Abergel, F. Comte, C. Duval\nRandom Leja points\nConstructive reachability for linear control problems under conic constraints\nwith E. Trélat, C. Zhang\n\n\n\n\n\nRegularisation for the approximation of functions by mollified discretisation methods\nwith M. Hoffmann\nSIAM Journal on Uncertainty Quantification (2025)\nComputer-assisted proofs of non-reachability for linear finite-dimensional control systems\nwith I. Hasenohr, Y. Privat, C. Zhang\nSIAM Journal on Control and Optimization (2025)\nAn integrative phenotype-structured partial differential equation model for the population dynamics of epithelial-mesenchymal transition\nwith J. Guilberteau, P. Jain, M. K. Jolly, N. Pouradier Duteil\nNPJ Systems Biology and Applications (2025)\nSolving Abel integral equations by regularisation in Hilbert scales\nwith C. Della Valle\nJournal of Mathematical Analysis and Applications (2024)\nApproximate control of parabolic equations with on-off shape controls by Fenchel duality\nwith E. Trélat, C. Zhang\nAnnales de l’Institut Poincaré C - Analyse non linéaire (2024)\nLong-time behaviour of an advection-selection equation\nwith J. Guilberteau, N. Pouradier Duteil\nDiscrete and Continuous Dynamical Systems - B (2024)\nLinear inverse problems with nonnegativity constraints: singularity of optimisers\nwith O. Verdier\nInverse Problems and Imaging (2024)\nA phenotype-structured model for the tumour-immune response\nwith Z. Kaid, J. Clairambault\nMathematical Modelling of Natural Phenomena (2023)\nPandemic Lock-down, Isolation, and Exit Policies Based on Machine Learning Predictions\nwith T. Evgeniou, M. Fekom, A. Ovchinnikov, R. Porcher, N. Vayatis\nProduction and Operations Management (2023)\nMonostability and bistability of biological switches\nwith J. Guilberteau, N. Pouradier Duteil\nJournal of Mathematical Biology (2021)\nStatistical model and ML-EM algorithm for emission tomography with known movement\nwith O. Verdier\nJournal of Mathematical Imaging and Vision (2021)\nSEAIR framework accounting for a personalised risk prediction score: application to the Covid-19 epidemic\nwith O. Boulant, M. Fekom, T. Evgeniou, A. Ovchinnikov, R. Porcher, N. Vayatis\nImage Processing On Line (2020)\nAsymptotic analysis of selection-mutation models in the presence of multiple fitness peaks\nwith T. Lorenzi\nNonlinearity (2020)\nThe ML-EM algorithm in continuum: sparse measure solutions\nwith O. Verdier\nInverse Problems (2020)\nHele-Shaw limit for a system of two reaction-(cross-)diffusion equations for living tissues\nwith F. Bubba, B. Perthame, M. Schmidtchen\nArchive for Rational Mechanics and Analysis (2019)\nA chemotaxis-based explanation of spheroid formation in 3D cultures of breast cancer cells\nwith F. Bubba, N. Ferrand, G. Vidal, L. Almeida, B. Perthame, M. Sabbah\nJournal of Theoretical Biology (2019)\nPhase portrait control of 1D monostable and bistable reaction-diffusion equations\nwith E. Trélat, E. Zuazua\nNonlinearity (2019)\nCombination of direct methods and homotopy in numerical optimal control: application to the optimization of chemotherapy in cancer\nwith A. Olivier\nJournal of Optimization Theory and Applications (2019)\nEnergy and implicit discretization of the Fokker-Planck and Keller-Segel type equations\nwith L. Almeida, F. Bubba, B. Perthame\nNetworks and Heterogeneous Media (2019)\nGlobal stability with selection in integro-differential Lotka-Volterra systems modelling trait-structured populations\nwith E. Trélat\nJournal of Biological Dynamics (2018)\nAsymptotic analysis and optimal control of an integro-differential system modelling healthy and cancer cells exposed to chemotherapy\nwith J. Clairambault, A. Lorz, E. Trélat\nJournal de Mathématiques Pures et Appliquées (2018)\n\n\n\n\n\nSpatiotemporal PET reconstruction using ML-EM with learned diffeomorphic deformation\nwith O. Öktem, O. Verdier\nMLMIR (2019)\nA survey of adaptive cell population dynamics models of emergence of drug resistance in cancer, and open questions about evolution and cancer\nwith J. Clairambault\nBiomath (2019)\n\n\n\n\n\nOn the stability of the state 1 in the non-local Fisher-KPP equation in bounded domains\nComptes Rendus Mathematique (2018)\n\n\n\n\n\nWhy is evolution important in cancer and what mathematics should be used to treat cancer? Focus on drug resistance\nwith L. Almeida, R. Chisholm, J. Clairambault, T. Lorenzi, A. Lorz, E. Trélat\nBiomat (2018)\n\n\n\n\n\nAnalysis, control and optimisation of PDEs, application to the biology and therapy of cancer\nPhD thesis\n\n\n\n\n\nCombattre les tumeurs résistantes à la chimiothérapie grâce au contrôle optimal\nwith E. Trélat\nImages des mathématiques"
+    "text": "Generalisation of Farkas’ lemma beyond closedness: a constructive approach via Fenchel-Rockafellar duality\nwith E. Trélat, C. Zhang\nComputer-assisted proofs of non-reachability for linear parabolic PDEs under bounded control constraints\nwith I. Hasenohr, Y. Privat, C. Zhang\nEstimating the intensity of a filtered Poisson point process on \\(\\mathbb{R}^d\\)\nwith R. Abergel, F. Comte, C. Duval\nRandom Leja points\nConstructive reachability for linear control problems under conic constraints\nwith E. Trélat, C. Zhang"
   },
   {
     "objectID": "publications.html#preprints",
     "href": "publications.html#preprints",
     "title": "Publications",
     "section": "",
-    "text": "Generalisation of Farkas’ lemma beyond closedness: a constructive approach via Fenchel-Rockafellar duality with E. Trélat, C. Zhang\nComputer-assisted proofs of non-reachability for linear parabolic PDEs under bounded control constraints with I. Hasenohr, Y. Privat, C. Zhang\nEstimating the intensity of a filtered Poisson point process on \\(\\mathbb{R}^d\\)\nwith R. Abergel, F. Comte, C. Duval\nRandom Leja points\nConstructive reachability for linear control problems under conic constraints\nwith E. Trélat, C. Zhang"
+    "text": "Generalisation of Farkas’ lemma beyond closedness: a constructive approach via Fenchel-Rockafellar duality\nwith E. Trélat, C. Zhang\nComputer-assisted proofs of non-reachability for linear parabolic PDEs under bounded control constraints\nwith I. Hasenohr, Y. Privat, C. Zhang\nEstimating the intensity of a filtered Poisson point process on \\(\\mathbb{R}^d\\)\nwith R. Abergel, F. Comte, C. Duval\nRandom Leja points\nConstructive reachability for linear control problems under conic constraints\nwith E. Trélat, C. Zhang"
   },
   {
     "objectID": "publications.html#journal-articles",
     "href": "publications.html#journal-articles",
     "title": "Publications",
-    "section": "",
-    "text": "Regularisation for the approximation of functions by mollified discretisation methods\nwith M. Hoffmann\nSIAM Journal on Uncertainty Quantification (2025)\nComputer-assisted proofs of non-reachability for linear finite-dimensional control systems\nwith I. Hasenohr, Y. Privat, C. Zhang\nSIAM Journal on Control and Optimization (2025)\nAn integrative phenotype-structured partial differential equation model for the population dynamics of epithelial-mesenchymal transition\nwith J. Guilberteau, P. Jain, M. K. Jolly, N. Pouradier Duteil\nNPJ Systems Biology and Applications (2025)\nSolving Abel integral equations by regularisation in Hilbert scales\nwith C. Della Valle\nJournal of Mathematical Analysis and Applications (2024)\nApproximate control of parabolic equations with on-off shape controls by Fenchel duality\nwith E. Trélat, C. Zhang\nAnnales de l’Institut Poincaré C - Analyse non linéaire (2024)\nLong-time behaviour of an advection-selection equation\nwith J. Guilberteau, N. Pouradier Duteil\nDiscrete and Continuous Dynamical Systems - B (2024)\nLinear inverse problems with nonnegativity constraints: singularity of optimisers\nwith O. Verdier\nInverse Problems and Imaging (2024)\nA phenotype-structured model for the tumour-immune response\nwith Z. Kaid, J. Clairambault\nMathematical Modelling of Natural Phenomena (2023)\nPandemic Lock-down, Isolation, and Exit Policies Based on Machine Learning Predictions\nwith T. Evgeniou, M. Fekom, A. Ovchinnikov, R. Porcher, N. Vayatis\nProduction and Operations Management (2023)\nMonostability and bistability of biological switches\nwith J. Guilberteau, N. Pouradier Duteil\nJournal of Mathematical Biology (2021)\nStatistical model and ML-EM algorithm for emission tomography with known movement\nwith O. Verdier\nJournal of Mathematical Imaging and Vision (2021)\nSEAIR framework accounting for a personalised risk prediction score: application to the Covid-19 epidemic\nwith O. Boulant, M. Fekom, T. Evgeniou, A. Ovchinnikov, R. Porcher, N. Vayatis\nImage Processing On Line (2020)\nAsymptotic analysis of selection-mutation models in the presence of multiple fitness peaks\nwith T. Lorenzi\nNonlinearity (2020)\nThe ML-EM algorithm in continuum: sparse measure solutions\nwith O. Verdier\nInverse Problems (2020)\nHele-Shaw limit for a system of two reaction-(cross-)diffusion equations for living tissues\nwith F. Bubba, B. Perthame, M. Schmidtchen\nArchive for Rational Mechanics and Analysis (2019)\nA chemotaxis-based explanation of spheroid formation in 3D cultures of breast cancer cells\nwith F. Bubba, N. Ferrand, G. Vidal, L. Almeida, B. Perthame, M. Sabbah\nJournal of Theoretical Biology (2019)\nPhase portrait control of 1D monostable and bistable reaction-diffusion equations\nwith E. Trélat, E. Zuazua\nNonlinearity (2019)\nCombination of direct methods and homotopy in numerical optimal control: application to the optimization of chemotherapy in cancer\nwith A. Olivier\nJournal of Optimization Theory and Applications (2019)\nEnergy and implicit discretization of the Fokker-Planck and Keller-Segel type equations\nwith L. Almeida, F. Bubba, B. Perthame\nNetworks and Heterogeneous Media (2019)\nGlobal stability with selection in integro-differential Lotka-Volterra systems modelling trait-structured populations\nwith E. Trélat\nJournal of Biological Dynamics (2018)\nAsymptotic analysis and optimal control of an integro-differential system modelling healthy and cancer cells exposed to chemotherapy\nwith J. Clairambault, A. Lorz, E. Trélat\nJournal de Mathématiques Pures et Appliquées (2018)"
+    "section": "Journal articles",
+    "text": "Journal articles\n\nRegularisation for the approximation of functions by mollified discretisation methods\nwith M. Hoffmann\nSIAM Journal on Uncertainty Quantification (2025)\nComputer-assisted proofs of non-reachability for linear finite-dimensional control systems\nwith I. Hasenohr, Y. Privat, C. Zhang\nSIAM Journal on Control and Optimization (2025)\nAn integrative phenotype-structured partial differential equation model for the population dynamics of epithelial-mesenchymal transition\nwith J. Guilberteau, P. Jain, M. K. Jolly, N. Pouradier Duteil\nNPJ Systems Biology and Applications (2025)\nSolving Abel integral equations by regularisation in Hilbert scales\nwith C. Della Valle\nJournal of Mathematical Analysis and Applications (2024)\nApproximate control of parabolic equations with on-off shape controls by Fenchel duality\nwith E. Trélat, C. Zhang\nAnnales de l’Institut Poincaré C - Analyse non linéaire (2024)\nLong-time behaviour of an advection-selection equation\nwith J. Guilberteau, N. Pouradier Duteil\nDiscrete and Continuous Dynamical Systems - B (2024)\nLinear inverse problems with nonnegativity constraints: singularity of optimisers\nwith O. Verdier\nInverse Problems and Imaging (2024)\nA phenotype-structured model for the tumour-immune response\nwith Z. Kaid, J. Clairambault\nMathematical Modelling of Natural Phenomena (2023)\nPandemic Lock-down, Isolation, and Exit Policies Based on Machine Learning Predictions\nwith T. Evgeniou, M. Fekom, A. Ovchinnikov, R. Porcher, N. Vayatis\nProduction and Operations Management (2022)\nMonostability and bistability of biological switches\nwith J. Guilberteau, N. Pouradier Duteil\nJournal of Mathematical Biology (2021)\nStatistical model and ML-EM algorithm for emission tomography with known movement\nwith O. Verdier\nJournal of Mathematical Imaging and Vision (2021)\nSEAIR framework accounting for a personalised risk prediction score: application to the Covid-19 epidemic\nwith O. Boulant, M. Fekom, T. Evgeniou, A. Ovchinnikov, R. Porcher, N. Vayatis\nImage Processing On Line (2020)\nAsymptotic analysis of selection-mutation models in the presence of multiple fitness peaks\nwith T. Lorenzi\nNonlinearity (2020)\nThe ML-EM algorithm in continuum: sparse measure solutions\nwith O. Verdier\nInverse Problems (2020)\nHele-Shaw limit for a system of two reaction-(cross-)diffusion equations for living tissues\nwith F. Bubba, B. Perthame, M. Schmidtchen\nArchive for Rational Mechanics and Analysis (2019)\nA chemotaxis-based explanation of spheroid formation in 3D cultures of breast cancer cells\nwith F. Bubba, N. Ferrand, G. Vidal, L. Almeida, B. Perthame, M. Sabbah\nJournal of Theoretical Biology (2019)\nPhase portrait control of 1D monostable and bistable reaction-diffusion equations\nwith E. Trélat, E. Zuazua\nNonlinearity (2019)\nCombination of direct methods and homotopy in numerical optimal control: application to the optimization of chemotherapy in cancer\nwith A. Olivier\nJournal of Optimization Theory and Applications (2019)\nEnergy and implicit discretization of the Fokker-Planck and Keller-Segel type equations\nwith L. Almeida, F. Bubba, B. Perthame\nNetworks and Heterogeneous Media (2019)\nGlobal stability with selection in integro-differential Lotka-Volterra systems modelling trait-structured populations\nwith E. Trélat\nJournal of Biological Dynamics (2018)\nAsymptotic analysis and optimal control of an integro-differential system modelling healthy and cancer cells exposed to chemotherapy\nwith J. Clairambault, A. Lorz, E. Trélat\nJournal de Mathématiques Pures et Appliquées (2018)"
   },
   {
     "objectID": "publications.html#proceedings",
     "href": "publications.html#proceedings",
     "title": "Publications",
-    "section": "",
-    "text": "Spatiotemporal PET reconstruction using ML-EM with learned diffeomorphic deformation\nwith O. Öktem, O. Verdier\nMLMIR (2019)\nA survey of adaptive cell population dynamics models of emergence of drug resistance in cancer, and open questions about evolution and cancer\nwith J. Clairambault\nBiomath (2019)"
+    "section": "Proceedings",
+    "text": "Proceedings\n\nSpatiotemporal PET reconstruction using ML-EM with learned diffeomorphic deformation\nwith O. Öktem, O. Verdier\nMLMIR (2019)\nA survey of adaptive cell population dynamics models of emergence of drug resistance in cancer, and open questions about evolution and cancer\nwith J. Clairambault\nBiomath (2019)"
   },
   {
     "objectID": "publications.html#notes",
     "href": "publications.html#notes",
     "title": "Publications",
-    "section": "",
-    "text": "On the stability of the state 1 in the non-local Fisher-KPP equation in bounded domains\nComptes Rendus Mathematique (2018)"
+    "section": "Notes",
+    "text": "Notes\n\nOn the stability of the state 1 in the non-local Fisher-KPP equation in bounded domains\nComptes Rendus Mathematique (2018)"
   },
   {
     "objectID": "publications.html#book-chapters",
     "href": "publications.html#book-chapters",
     "title": "Publications",
-    "section": "",
-    "text": "Why is evolution important in cancer and what mathematics should be used to treat cancer? Focus on drug resistance\nwith L. Almeida, R. Chisholm, J. Clairambault, T. Lorenzi, A. Lorz, E. Trélat\nBiomat (2018)"
+    "section": "Book chapters",
+    "text": "Book chapters\n\nWhy is evolution important in cancer and what mathematics should be used to treat cancer? Focus on drug resistance\nwith L. Almeida, R. Chisholm, J. Clairambault, T. Lorenzi, A. Lorz, E. Trélat\nBiomat (2018)"
   },
   {
     "objectID": "publications.html#phd-thesis",
     "href": "publications.html#phd-thesis",
     "title": "Publications",
-    "section": "",
-    "text": "Analysis, control and optimisation of PDEs, application to the biology and therapy of cancer\nPhD thesis"
+    "section": "PhD thesis",
+    "text": "PhD thesis\n\nAnalysis, control and optimisation of PDEs, application to the biology and therapy of cancer\nPhD thesis"
   },
   {
     "objectID": "publications.html#popularisation-in-french",
     "href": "publications.html#popularisation-in-french",
     "title": "Publications",
-    "section": "",
-    "text": "Combattre les tumeurs résistantes à la chimiothérapie grâce au contrôle optimal\nwith E. Trélat\nImages des mathématiques"
+    "section": "Popularisation (in French)",
+    "text": "Popularisation (in French)\n\nCombattre les tumeurs résistantes à la chimiothérapie grâce au contrôle optimal\nwith E. Trélat\nImages des mathématiques"
   },
   {
     "objectID": "contact.html",
@@ -67,28 +67,28 @@
     "href": "enseignement.html",
     "title": "Teaching",
     "section": "",
-    "text": "A concise list of current and past courses can be added here.\n\n\n\nCourse title 1\nCourse title 2\nCourse title 3\n\n\n\n\n\nCourse title A\nCourse title B\n\n\n\n\n\nLecture notes\nProblem sheets\nExams"
+    "text": "A concise list of current and past courses can be added here."
   },
   {
     "objectID": "enseignement.html#current-academic-year",
     "href": "enseignement.html#current-academic-year",
     "title": "Teaching",
-    "section": "",
-    "text": "Course title 1\nCourse title 2\nCourse title 3"
+    "section": "Current academic year",
+    "text": "Current academic year\n\nCourse title 1\nCourse title 2\nCourse title 3"
   },
   {
     "objectID": "enseignement.html#past-courses",
     "href": "enseignement.html#past-courses",
     "title": "Teaching",
-    "section": "",
-    "text": "Course title A\nCourse title B"
+    "section": "Past courses",
+    "text": "Past courses\n\nCourse title A\nCourse title B"
   },
   {
     "objectID": "enseignement.html#teaching-material",
     "href": "enseignement.html#teaching-material",
     "title": "Teaching",
-    "section": "",
-    "text": "Lecture notes\nProblem sheets\nExams"
+    "section": "Teaching material",
+    "text": "Teaching material\n\nLecture notes\nProblem sheets\nExams"
   },
   {
     "objectID": "index.html",
