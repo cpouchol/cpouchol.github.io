@@ -25,18 +25,18 @@ title: CV
 
 - **Raphaël Stussi**  
   Development and analysis of algorithms for cryo-electron microscopy  
-  Co-supervised with Rémy Abergel and Sylvain Durand
+  <em>Co-supervised with Rémy Abergel and Sylvain Durand</em>
 
 
 - **Ivan Hasenohr**  
   Computer-assisted proofs of reachability analysis for linear control systems under bounded constraints  
-  Co-supervised with Yannick Privat and Christophe Zhang
+  <em>Co-supervised with Yannick Privat and Christophe Zhang</em>
 
 
 - **Cécile Della Valle**  
   Regularisation methods and neural networks, applications to inverse problems with transport  
-  Co-supervised with Sylvain Durand and Pauline Tan.
+  <em>Co-supervised with Sylvain Durand and Pauline Tan</em>
 
 - **Jules Guilberteau**  
   Asymptotic and numerical analysis of models for heterogeneous cell populations  
-  Co-supervised with Nastassia Pouradier Duteil.
+  <em>Co-supervised with Nastassia Pouradier Duteil</em>

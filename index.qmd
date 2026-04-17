@@ -2,7 +2,7 @@
 
 ::: {.column width="65%"}
 
-**I'm an assistant Professor at MAP5, Université Paris Cité.**
+**I'm an Associate Professor at MAP5, Université Paris Cité.**
 
 My research interests revolve around **inverse problems**, **control** and **optimisation**.
 

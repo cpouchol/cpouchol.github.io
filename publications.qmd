@@ -164,4 +164,4 @@ title: Publications
 
 - [Combattre les tumeurs résistantes à la chimiothérapie grâce au contrôle optimal](https://images.math.cnrs.fr/freeze/Combattre-les-tumeurs-resistantes-a-la-chimiotherapie-grace-au-controle-optimal.html)  
   with E. Trélat  
-  Images des mathématiques
+  <em>Images des mathématiques</em> (2019)
