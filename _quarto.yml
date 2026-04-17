@@ -5,6 +5,8 @@ project:
 website:
   site-url: "https://cpouchol.github.io/"
   title: "Camille Pouchol"
+  page-footer:
+    center: 'Zellij tilework from Al Attarine Madrasa in Fez: By Ideophagous - Own work, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=177357549)'
   navbar:
     left:
       - href: index.qmd
@@ -13,6 +15,8 @@ website:
         text: Publications
       - href: enseignement.qmd
         text: Enseignement
+      - href: cv.qmd
+        text: CV
       - href: contact.qmd
         text: Contact
 

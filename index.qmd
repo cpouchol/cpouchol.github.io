@@ -8,6 +8,7 @@ My research interests revolve around **inverse problems**, **control** and **opt
 
 [Publications](publications.qmd) ·
 [Enseignement](enseignement.qmd) ·
+[CV](cv.qmd) ·
 [Contact](contact.qmd)
 
 :::

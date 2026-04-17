@@ -1,0 +1,50 @@
+---
+layout: default
+title: CV
+---
+
+## Academic positions and education
+
+- **Since 2019**  
+  Associate Professor, MAP5, Université Paris Cité.
+
+- **2018-2019**  
+  Postdoctoral researcher in inverse problems and deep learning for medical imaging, Department of Mathematics, KTH, Stockholm.  
+  Advisor: Ozan Öktem.
+
+- **2015-2018**  
+  PhD, *Analysis, control and optimisation of PDEs, application to the biology and therapy of cancer*, Laboratoire Jacques-Louis Lions, Sorbonne Université.  
+  Advisors: Jean Clairambault, Michèle Sabbah, Emmanuel Trélat.
+
+- **2014-2015**  
+  Master's degree in mathematical modelling, mathematics for biology track, Sorbonne Université.
+
+- **2013-2014**  
+  Agrégation in mathematics, probability track.
+
+- **2009-2012**  
+  École des Mines de Paris, applied statistics track.
+
+- **2007-2010**  
+  Bachelor's degree in mathematics, UPMC.
+
+- **2007-2009**  
+  Preparatory classes MPSI-MP*, Lycée Henri IV, Paris.
+
+## Student supervision
+
+### PhD students
+
+- **Raphaël Stussi**  
+  PhD student.
+
+- **Ivan Hasenohr**  
+  PhD student.
+
+- **Jules Guilberteau**  
+  Modelling, analysis and control of cell differentiation: the case of epithelial-mesenchymal transition.  
+  Co-supervised with Pierre-Alexandre Bliman and Nastassia Pouradier Duteil.
+
+- **Cécile Della Valle**  
+  Regularisation methods and neural networks, with applications to inverse problems with transport.  
+  Co-supervised with Sylvain Durand and Pauline Tan.

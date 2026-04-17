@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://cpouchol.github.io/cv.html</loc>
+    <lastmod>2026-04-17T10:03:31.525Z</lastmod>
+  </url>
+  <url>
     <loc>https://cpouchol.github.io/publications.html</loc>
-    <lastmod>2026-04-17T08:16:29.395Z</lastmod>
+    <lastmod>2026-04-17T09:13:46.609Z</lastmod>
   </url>
   <url>
     <loc>https://cpouchol.github.io/contact.html</loc>
     <lastmod>2026-04-16T20:48:12.010Z</lastmod>
   </url>
   <url>
-    <loc>https://cpouchol.github.io/enseignement.html</loc>
-    <lastmod>2026-04-16T20:46:27.730Z</lastmod>
+    <loc>https://cpouchol.github.io/index.html</loc>
+    <lastmod>2026-04-17T10:05:28.926Z</lastmod>
   </url>
   <url>
-    <loc>https://cpouchol.github.io/index.html</loc>
-    <lastmod>2026-04-17T08:07:04.875Z</lastmod>
+    <loc>https://cpouchol.github.io/enseignement.html</loc>
+    <lastmod>2026-04-16T20:46:27.730Z</lastmod>
   </url>
 </urlset>

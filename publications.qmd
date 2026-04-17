@@ -21,7 +21,7 @@ title: Publications
 
 ## Journal articles
 
-<ol reversed start="21">
+<ol class="publication-list" reversed start="21">
   <li>
     <a href="./assets/publications/HP2024.pdf">Regularisation for the approximation of functions by mollified discretisation methods</a><br>
     with M. Hoffmann<br>
@@ -131,7 +131,7 @@ title: Publications
 
 ## Proceedings
 
-<ol reversed start="2">
+<ol class="publication-list" reversed start="2">
   <li>
     <a href="./assets/publications/OPV2019.pdf">Spatiotemporal PET reconstruction using ML-EM with learned diffeomorphic deformation</a><br>
     with O. Öktem, O. Verdier<br>

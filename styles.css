@@ -1,5 +1,16 @@
+:root {
+  --accent: #1f5a4a;
+  --accent-dark: #174437;
+  --accent-soft: #e8f1ed;
+  --text: #1f2a28;
+  --muted: #5c6b66;
+  --border-soft: #d7e4de;
+}
+
 body {
   background-color: #ffffff;
+  color: var(--text);
+  line-height: 1.65;
 }
 
 /* Bandeaux décoratifs latéraux */
@@ -60,4 +71,94 @@ main.content,
 
 .home-columns .column:last-child {
   padding-left: 2rem;
+}
+
+.publication-list li {
+  margin-bottom: 1rem;
+}
+
+/* Typographie générale */
+h1, h2, h3, h4 {
+  color: var(--accent-dark);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+h1.title {
+  font-size: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+p {
+  margin-bottom: 0.95rem;
+}
+
+/* Liens */
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent-dark);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+/* Navbar */
+.navbar {
+  border-bottom: 1px solid var(--border-soft);
+  background-color: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(4px);
+}
+
+.navbar-title,
+.navbar-brand {
+  color: var(--accent-dark) !important;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.navbar-nav .nav-link {
+  color: var(--text) !important;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: var(--accent) !important;
+}
+
+/* Contenu central un peu plus net */
+#quarto-content main.content {
+  max-width: 920px;
+}
+
+/* Photo de la page d'accueil */
+.home-columns img {
+  border-radius: 10px;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+}
+
+/* Ligne fine sous les titres de sections principales */
+h2 {
+  padding-bottom: 0.2rem;
+  border-bottom: 1px solid var(--border-soft);
+  margin-top: 2rem;
+}
+
+/* Listes de publications plus aérées */
+.publication-list {
+  padding-left: 1.2rem;
+}
+
+.publication-list li {
+  margin-bottom: 1.15rem;
+}
+
+/* Optionnel : texte plus discret pour les métadonnées */
+.quarto-title-meta,
+.subtitle,
+.date,
+.listing-subtitle {
+  color: var(--muted);
 }

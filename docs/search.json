@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Since 2019\nAssociate Professor, MAP5, Université Paris Cité.\n2018-2019\nPostdoctoral researcher in inverse problems and deep learning for medical imaging, Department of Mathematics, KTH, Stockholm.\nAdvisor: Ozan Öktem.\n2015-2018\nPhD, Analysis, control and optimisation of PDEs, application to the biology and therapy of cancer, Laboratoire Jacques-Louis Lions, Sorbonne Université.\nAdvisors: Jean Clairambault, Michèle Sabbah, Emmanuel Trélat.\n2014-2015\nMaster’s degree in mathematical modelling, mathematics for biology track, Sorbonne Université.\n2013-2014\nAgrégation in mathematics, probability track.\n2009-2012\nÉcole des Mines de Paris, applied statistics track.\n2007-2010\nBachelor’s degree in mathematics, UPMC.\n2007-2009\nPreparatory classes MPSI-MP*, Lycée Henri IV, Paris."
+  },
+  {
+    "objectID": "cv.html#academic-positions-and-education",
+    "href": "cv.html#academic-positions-and-education",
+    "title": "CV",
+    "section": "",
+    "text": "Since 2019\nAssociate Professor, MAP5, Université Paris Cité.\n2018-2019\nPostdoctoral researcher in inverse problems and deep learning for medical imaging, Department of Mathematics, KTH, Stockholm.\nAdvisor: Ozan Öktem.\n2015-2018\nPhD, Analysis, control and optimisation of PDEs, application to the biology and therapy of cancer, Laboratoire Jacques-Louis Lions, Sorbonne Université.\nAdvisors: Jean Clairambault, Michèle Sabbah, Emmanuel Trélat.\n2014-2015\nMaster’s degree in mathematical modelling, mathematics for biology track, Sorbonne Université.\n2013-2014\nAgrégation in mathematics, probability track.\n2009-2012\nÉcole des Mines de Paris, applied statistics track.\n2007-2010\nBachelor’s degree in mathematics, UPMC.\n2007-2009\nPreparatory classes MPSI-MP*, Lycée Henri IV, Paris."
+  },
+  {
+    "objectID": "cv.html#student-supervision",
+    "href": "cv.html#student-supervision",
+    "title": "CV",
+    "section": "Student supervision",
+    "text": "Student supervision\n\nPhD students\n\nRaphaël Stussi\nPhD student.\nIvan Hasenohr\nPhD student.\nJules Guilberteau\nModelling, analysis and control of cell differentiation: the case of epithelial-mesenchymal transition.\nCo-supervised with Pierre-Alexandre Bliman and Nastassia Pouradier Duteil.\nCécile Della Valle\nRegularisation methods and neural networks, with applications to inverse problems with transport.\nCo-supervised with Sylvain Durand and Pauline Tan."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -67,6 +88,6 @@
     "href": "index.html",
     "title": "Camille Pouchol",
     "section": "",
-    "text": "I’m an assistant Professor at MAP5, Université Paris Cité.\nMy research interests revolve around inverse problems, control and optimisation.\nPublications · Enseignement · Contact"
+    "text": "I’m an assistant Professor at MAP5, Université Paris Cité.\nMy research interests revolve around inverse problems, control and optimisation.\nPublications · Enseignement · CV · Contact"
   }
 ]
