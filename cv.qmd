@@ -6,45 +6,37 @@ title: CV
 ## Academic positions and education
 
 - **Since 2019**  
-  Associate Professor, MAP5, Université Paris Cité.
+  Associate Professor, MAP5, Université Paris Cité  
 
 - **2018-2019**  
-  Postdoctoral researcher in inverse problems and deep learning for medical imaging, Department of Mathematics, KTH, Stockholm.  
-  Advisor: Ozan Öktem.
+  Postdoctoral researcher, Department of Mathematics, KTH, Stockholm   
 
 - **2015-2018**  
-  PhD, *Analysis, control and optimisation of PDEs, application to the biology and therapy of cancer*, Laboratoire Jacques-Louis Lions, Sorbonne Université.  
-  Advisors: Jean Clairambault, Michèle Sabbah, Emmanuel Trélat.
+  PhD, *Analysis, control and optimisation of PDEs, application to the biology and therapy of cancer*, LJLL, Sorbonne Université, Paris  
+  Advisors: Jean Clairambault, Emmanuel Trélat
 
 - **2014-2015**  
-  Master's degree in mathematical modelling, mathematics for biology track, Sorbonne Université.
+  Master's degree in Mathematics of Modelling, Sorbonne Université, Paris
 
 - **2013-2014**  
-  Agrégation in mathematics, probability track.
+  Agrégation in mathematics
 
-- **2009-2012**  
-  École des Mines de Paris, applied statistics track.
-
-- **2007-2010**  
-  Bachelor's degree in mathematics, UPMC.
-
-- **2007-2009**  
-  Preparatory classes MPSI-MP*, Lycée Henri IV, Paris.
-
-## Student supervision
-
-### PhD students
+## PhD supervision
 
 - **Raphaël Stussi**  
-  PhD student.
+  Development and analysis of algorithms for cryo-electron microscopy
+  Co-supervised with Rémy Abergel and Sylvain Durand
+
 
 - **Ivan Hasenohr**  
-  PhD student.
+  Computer-assisted proofs of reachability analysis for linear control systems under bounded constraints
+  Co-supervised with Yannick Privat and Christophe Zhang
 
-- **Jules Guilberteau**  
-  Modelling, analysis and control of cell differentiation: the case of epithelial-mesenchymal transition.  
-  Co-supervised with Pierre-Alexandre Bliman and Nastassia Pouradier Duteil.
 
 - **Cécile Della Valle**  
-  Regularisation methods and neural networks, with applications to inverse problems with transport.  
+  Regularisation methods and neural networks, applications to inverse problems with transport  
   Co-supervised with Sylvain Durand and Pauline Tan.
+
+- **Jules Guilberteau**  
+  Asymptotic and numerical analysis of models for heterogeneous cell populations  
+  Co-supervised with Nastassia Pouradier Duteil.
