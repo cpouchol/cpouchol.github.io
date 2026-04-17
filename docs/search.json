@@ -14,11 +14,11 @@
     "text": "Since 2019\nAssociate Professor, MAP5, Université Paris Cité\n2018-2019\nPostdoctoral researcher, Department of Mathematics, KTH, Stockholm\n2015-2018\nPhD, Analysis, control and optimisation of PDEs, application to the biology and therapy of cancer, LJLL, Sorbonne Université, Paris\nAdvisors: Jean Clairambault, Emmanuel Trélat\n2014-2015\nMaster’s degree in Mathematics of Modelling, Sorbonne Université, Paris\n2013-2014\nAgrégation in mathematics"
   },
   {
-    "objectID": "cv.html#student-supervision",
-    "href": "cv.html#student-supervision",
+    "objectID": "cv.html#phd-supervision",
+    "href": "cv.html#phd-supervision",
     "title": "CV",
-    "section": "Student supervision",
-    "text": "Student supervision\n\nPhD students\n\nRaphaël Stussi\nDevelopment and analysis of algorithms for cryo-electron microscopy Co-supervised with Rémy Abergel and Sylvain Durand\nIvan Hasenohr\nComputer-assisted proofs of reachability analysis for linear control systems under bounded constraints Co-supervised with Yannick Privat and Christophe Zhang\nCécile Della Valle\nRegularisation methods and neural networks, applications to inverse problems with transport\nCo-supervised with Sylvain Durand and Pauline Tan.\nJules Guilberteau\nAsymptotic and numerical analysis of models for heterogeneous cell populations\nCo-supervised with Nastassia Pouradier Duteil."
+    "section": "PhD supervision",
+    "text": "PhD supervision\n\nRaphaël Stussi\nDevelopment and analysis of algorithms for cryo-electron microscopy Co-supervised with Rémy Abergel and Sylvain Durand\nIvan Hasenohr\nComputer-assisted proofs of reachability analysis for linear control systems under bounded constraints Co-supervised with Yannick Privat and Christophe Zhang\nCécile Della Valle\nRegularisation methods and neural networks, applications to inverse problems with transport\nCo-supervised with Sylvain Durand and Pauline Tan.\nJules Guilberteau\nAsymptotic and numerical analysis of models for heterogeneous cell populations\nCo-supervised with Nastassia Pouradier Duteil."
   },
   {
     "objectID": "publications.html",
@@ -89,12 +89,5 @@
     "title": "Camille Pouchol",
     "section": "",
     "text": "I’m an assistant Professor at MAP5, Université Paris Cité.\nMy research interests revolve around inverse problems, control and optimisation.\nPublications · Enseignement · CV · Contact"
-  },
-  {
-    "objectID": "cv.html#phd-supervision",
-    "href": "cv.html#phd-supervision",
-    "title": "CV",
-    "section": "PhD supervision",
-    "text": "PhD supervision\n\nRaphaël Stussi\nDevelopment and analysis of algorithms for cryo-electron microscopy Co-supervised with Rémy Abergel and Sylvain Durand\nIvan Hasenohr\nComputer-assisted proofs of reachability analysis for linear control systems under bounded constraints Co-supervised with Yannick Privat and Christophe Zhang\nCécile Della Valle\nRegularisation methods and neural networks, applications to inverse problems with transport\nCo-supervised with Sylvain Durand and Pauline Tan.\nJules Guilberteau\nAsymptotic and numerical analysis of models for heterogeneous cell populations\nCo-supervised with Nastassia Pouradier Duteil."
   }
 ]
