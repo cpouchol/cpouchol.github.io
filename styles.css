@@ -1,0 +1,55 @@
+body {
+  background-color: #ffffff;
+}
+
+/* Bandeaux décoratifs latéraux */
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 88px;
+  z-index: -1;
+  pointer-events: none;
+  background-image: url("assets/zelllige.jpg");
+  background-repeat: repeat-y;
+  background-position: top center;
+  background-size: 88px auto;
+  opacity: 0.16;
+}
+
+body::before {
+  left: 0;
+}
+
+body::after {
+  right: 0;
+  transform: scaleX(-1);
+}
+
+/* Contenu principal au-dessus des bandeaux */
+#quarto-content,
+main.content,
+.page-layout,
+.page-columns {
+  position: relative;
+  z-index: 1;
+}
+
+/* Un peu d'air sur les grands écrans */
+@media (min-width: 1200px) {
+  .content,
+  #quarto-content {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+}
+
+/* Sur tablette/mobile, on supprime les bandeaux */
+@media (max-width: 1100px) {
+  body::before,
+  body::after {
+    display: none;
+  }
+}
