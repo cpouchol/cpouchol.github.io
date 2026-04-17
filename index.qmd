@@ -1,4 +1,4 @@
-:::: {.columns}
+:::: {.columns .home-columns}
 
 ::: {.column width="65%"}
 
@@ -6,9 +6,9 @@
 
 My research interests revolve around **inverse problems**, **control** and **optimisation**.
 
-[Publications](publications.md) ·
-[Enseignement](enseignement.md) ·
-[Contact](contact.md)
+[Publications](publications.qmd) ·
+[Enseignement](enseignement.qmd) ·
+[Contact](contact.qmd)
 
 :::
 

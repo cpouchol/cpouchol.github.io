@@ -9,11 +9,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: publications.md
+      - href: publications.qmd
         text: Publications
-      - href: enseignement.md
+      - href: enseignement.qmd
         text: Enseignement
-      - href: contact.md
+      - href: contact.qmd
         text: Contact
 
 format:
