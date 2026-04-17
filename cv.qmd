@@ -24,12 +24,12 @@ title: CV
 ## PhD supervision
 
 - **Raphaël Stussi**  
-  Development and analysis of algorithms for cryo-electron microscopy
+  Development and analysis of algorithms for cryo-electron microscopy  
   Co-supervised with Rémy Abergel and Sylvain Durand
 
 
 - **Ivan Hasenohr**  
-  Computer-assisted proofs of reachability analysis for linear control systems under bounded constraints
+  Computer-assisted proofs of reachability analysis for linear control systems under bounded constraints  
   Co-supervised with Yannick Privat and Christophe Zhang
 
 
