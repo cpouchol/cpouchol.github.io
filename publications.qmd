@@ -78,7 +78,7 @@ title: Publications
     <em>Journal of Mathematical Imaging and Vision</em> (2021)
   </li>
   <li>
-    <a href="./assets/publications/BEFOPV2020.pdf">SEAIR framework accounting for a personalised risk prediction score: application to the Covid-19 epidemic</a><br>
+    <a href="./assets/publications/BFEOPPV2020.pdf">SEAIR framework accounting for a personalised risk prediction score: application to the Covid-19 epidemic</a><br>
     with O. Boulant, M. Fekom, T. Evgeniou, A. Ovchinnikov, R. Porcher, N. Vayatis<br>
     <em>Image Processing On Line</em> (2020)
   </li>
@@ -93,9 +93,9 @@ title: Publications
     <em>Inverse Problems</em> (2020)
   </li>
   <li>
-    <a href="./assets/publications/BPPS2019.pdf">Hele-Shaw limit for a system of two reaction-(cross-)diffusion equations for living tissues</a><br>
+    <a href="./assets/publications/BPPS2020.pdf">Hele-Shaw limit for a system of two reaction-(cross-)diffusion equations for living tissues</a><br>
     with F. Bubba, B. Perthame, M. Schmidtchen<br>
-    <em>Archive for Rational Mechanics and Analysis</em> (2019)
+    <em>Archive for Rational Mechanics and Analysis</em> (2020)
   </li>
   <li>
     <a href="./assets/publications/BFVAPS2019.pdf">A chemotaxis-based explanation of spheroid formation in 3D cultures of breast cancer cells</a><br>
