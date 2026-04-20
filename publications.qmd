@@ -23,17 +23,17 @@ title: Publications
 
 <ol class="publication-list" reversed start="21">
   <li>
-    <a href="./assets/publications/HP2024.pdf">Regularisation for the approximation of functions by mollified discretisation methods</a><br>
+    <a href="./assets/publications/HP2025.pdf">Regularisation for the approximation of functions by mollified discretisation methods</a><br>
     with M. Hoffmann<br>
     <em>SIAM Journal on Uncertainty Quantification</em> (2025)
   </li>
   <li>
-    <a href="./assets/publications/HPPZ2024.pdf">Computer-assisted proofs of non-reachability for linear finite-dimensional control systems</a><br>
+    <a href="./assets/publications/HPPZ2025.pdf">Computer-assisted proofs of non-reachability for linear finite-dimensional control systems</a><br>
     with I. Hasenohr, Y. Privat, C. Zhang<br>
     <em>SIAM Journal on Control and Optimization</em> (2025)
   </li>
   <li>
-    <a href="./assets/publications/GJJP2023.pdf">An integrative phenotype-structured partial differential equation model for the population dynamics of epithelial-mesenchymal transition</a><br>
+    <a href="./assets/publications/GJJPP2025.pdf">An integrative phenotype-structured partial differential equation model for the population dynamics of epithelial-mesenchymal transition</a><br>
     with J. Guilberteau, P. Jain, M. K. Jolly, N. Pouradier Duteil<br>
     <em>NPJ Systems Biology and Applications</em> (2025)
   </li>
@@ -58,7 +58,7 @@ title: Publications
     <em>Inverse Problems and Imaging</em> (2024)
   </li>
   <li>
-    <a href="./assets/publications/CKP2023.pdf">A phenotype-structured model for the tumour-immune response</a><br>
+    <a href="./assets/publications/KPC2023.pdf">A phenotype-structured model for the tumour-immune response</a><br>
     with Z. Kaid, J. Clairambault<br>
     <em>Mathematical Modelling of Natural Phenomena</em> (2023)
   </li>
@@ -68,7 +68,7 @@ title: Publications
     <em>Production and Operations Management</em> (2022)
   </li>
   <li>
-    <a href="./assets/publications/GPP2021.pdf">Monostability and bistability of biological switches</a><br>
+    <a href="https://link.springer.com/epdf/10.1007/s00285-021-01687-y?sharing_token=X6omiZ4jeMdrG1S2T09tOve4RwlQNchNByi7wbcMAY7RnjjHMplIQ_RU08y3MuiioZfawmi_70G9Dt2SQsknIZjPI3dor00g8kYESXczgYaqikqQ67gAndEGU6Y8ubAbzHpQdk1L572LRu4ai2RxNQAy804rXJeGHqgl02I6VnY%3D">Monostability and bistability of biological switches</a><br>
     with J. Guilberteau, N. Pouradier Duteil<br>
     <em>Journal of Mathematical Biology</em> (2021)
   </li>
@@ -98,7 +98,7 @@ title: Publications
     <em>Archive for Rational Mechanics and Analysis</em> (2020)
   </li>
   <li>
-    <a href="./assets/publications/BFVAPS2019.pdf">A chemotaxis-based explanation of spheroid formation in 3D cultures of breast cancer cells</a><br>
+    <a href="./assets/publications/BPFVAPS2019.pdf">A chemotaxis-based explanation of spheroid formation in 3D cultures of breast cancer cells</a><br>
     with F. Bubba, N. Ferrand, G. Vidal, L. Almeida, B. Perthame, M. Sabbah<br>
     <em>Journal of Theoretical Biology</em> (2019)
   </li>
@@ -123,7 +123,7 @@ title: Publications
     <em>Journal of Biological Dynamics</em> (2018)
   </li>
   <li>
-    <a href="./assets/publications/CLPT2018.pdf">Asymptotic analysis and optimal control of an integro-differential system modelling healthy and cancer cells exposed to chemotherapy</a><br>
+    <a href="./assets/publications/PCLT2018.pdf">Asymptotic analysis and optimal control of an integro-differential system modelling healthy and cancer cells exposed to chemotherapy</a><br>
     with J. Clairambault, A. Lorz, E. Trélat<br>
     <em>Journal de Mathématiques Pures et Appliquées</em> (2018)
   </li>
@@ -157,7 +157,7 @@ title: Publications
 
 ## PhD thesis
 
-- [Analysis, control and optimisation of PDEs, application to the biology and therapy of cancer](https://hal.science/tel-01889253v2/document)  
+- [Analysis, control and optimisation of PDEs, application to the biology and therapy of cancer](./assets/publications/PhD2018.pdf)  
   PhD thesis 
 
 ## Popularisation (in French)
