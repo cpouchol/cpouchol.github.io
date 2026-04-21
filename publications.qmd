@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 
+::: {.warm-subtitles}
+
 ## Preprints
 
 - [Generalisation of Farkas' lemma beyond closedness: a constructive approach via Fenchel-Rockafellar duality](https://arxiv.org/pdf/2603.11859v1)   
@@ -165,3 +167,5 @@ title: Publications
 - [Combattre les tumeurs résistantes à la chimiothérapie grâce au contrôle optimal](https://images.math.cnrs.fr/freeze/Combattre-les-tumeurs-resistantes-a-la-chimiotherapie-grace-au-controle-optimal.html)  
   with E. Trélat  
   <em>Images des mathématiques</em> (2019)
+
+:::

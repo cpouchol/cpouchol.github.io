@@ -3,6 +3,8 @@ layout: default
 title: CV
 ---
 
+::: {.warm-subtitles}
+
 ## Academic positions and education
 
 - **Since 2019**  
@@ -40,3 +42,5 @@ title: CV
 - **Jules Guilberteau**  
   Asymptotic and numerical analysis of models for heterogeneous cell populations  
   <em>Co-supervised with Nastassia Pouradier Duteil</em>
+
+:::

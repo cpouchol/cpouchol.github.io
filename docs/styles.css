@@ -2,6 +2,7 @@
   --accent: #1f5a4a;
   --accent-dark: #174437;
   --accent-soft: #e8f1ed;
+  --accent-warm: #b56c22;
   --text: #1f2a28;
   --muted: #5c6b66;
   --border-soft: #d7e4de;
@@ -71,6 +72,60 @@ main.content,
 
 .home-columns .column:last-child {
   padding-left: 2rem;
+}
+
+.home-links {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.home-links p {
+  margin-bottom: 0;
+}
+
+@media (min-width: 1101px) {
+  .home-intro {
+    font-size: 1.28rem;
+    line-height: 1.55;
+  }
+}
+
+@media (min-width: 1101px) {
+  body:not(.quarto-dashboard) .page-index #quarto-content main.content,
+  body:not(.quarto-dashboard) main.content:has(.home-columns) {
+    max-width: 1020px;
+  }
+
+  .home-columns {
+    align-items: center;
+    column-gap: 1.5rem;
+    font-size: 1.08rem;
+    margin-top: 2rem;
+  }
+
+  .home-columns p {
+    margin-bottom: 1.35rem;
+  }
+
+  .home-columns p:first-child {
+    font-size: 1.28rem;
+    line-height: 1.55;
+  }
+
+  .home-columns p:last-child {
+    font-size: 1.05rem;
+  }
+
+  .home-columns img {
+    max-width: 220px;
+    width: 100% !important;
+    transform: translateX(90px);
+  }
+
+  .home-links {
+    font-size: 1.08rem;
+    margin-top: 2.4rem;
+  }
 }
 
 .publication-list li {
@@ -161,4 +216,9 @@ h2 {
 .date,
 .listing-subtitle {
   color: var(--muted);
+}
+
+.warm-subtitles h2,
+.warm-subtitles h3 {
+  color: var(--accent-warm);
 }

@@ -2,21 +2,25 @@
 
 ::: {.column width="65%"}
 
+::: {.home-intro}
 **I'm an Associate Professor at MAP5, Université Paris Cité.**
+:::
 
 My research interests revolve around **inverse problems**, **control** and **optimisation**.
-
-[Publications](publications.qmd) ·
-[Enseignement](enseignement.qmd) ·
-[CV](cv.qmd) ·
-[Contact](contact.qmd)
 
 :::
 
 ::: {.column width="35%"}
 
-![](assets/photo.jpg){width=200px}
+![](assets/photo.jpg){width=100px}
 
 :::
 
 ::::
+
+::: {.home-links}
+[Publications](publications.qmd) ·
+[Enseignement](enseignement.qmd) · 
+[CV](cv.qmd) · 
+[Contact](contact.qmd)
+:::
