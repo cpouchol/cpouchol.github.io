@@ -2,7 +2,7 @@
   --accent: #1f5a4a;
   --accent-dark: #174437;
   --accent-soft: #e8f1ed;
-  --accent-warm: #b56c22;
+  --accent-warm: #bb7314;
   --text: #1f2a28;
   --muted: #5c6b66;
   --border-soft: #d7e4de;
@@ -75,6 +75,8 @@ main.content,
 }
 
 .home-links {
+  display: flex;
+  justify-content: center;
   margin-top: 2rem;
   text-align: center;
 }
@@ -84,9 +86,10 @@ main.content,
 }
 
 @media (min-width: 1101px) {
-  .home-intro {
-    font-size: 1.28rem;
+  .home-intro p {
+    font-size: 1.05rem;
     line-height: 1.55;
+    margin-bottom: 1.4rem;
   }
 }
 
@@ -98,33 +101,26 @@ main.content,
 
   .home-columns {
     align-items: center;
-    column-gap: 1.5rem;
-    font-size: 1.08rem;
+    column-gap: 1.2rem;
     margin-top: 2rem;
   }
 
-  .home-columns p {
-    margin-bottom: 1.35rem;
-  }
-
-  .home-columns p:first-child {
-    font-size: 1.28rem;
-    line-height: 1.55;
-  }
-
-  .home-columns p:last-child {
-    font-size: 1.05rem;
+  .home-columns > .column:first-child > p {
+    font-size: 1.15rem;
+    line-height: 1.65;
+    margin-bottom: 1.6rem;
   }
 
   .home-columns img {
     max-width: 220px;
     width: 100% !important;
-    transform: translateX(90px);
+    transform: translateX(88px);
   }
 
   .home-links {
     font-size: 1.08rem;
-    margin-top: 2.4rem;
+    margin-top: 8.4rem;
+    transform: translateX(72px);
   }
 }
 
